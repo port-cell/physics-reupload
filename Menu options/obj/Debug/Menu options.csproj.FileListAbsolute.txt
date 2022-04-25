@@ -1,0 +1,14 @@
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu_options.Form1.resources
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu_options.Orbitals_Menu.resources
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu_options.Particals_Menu.resources
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu_options.Properties.Resources.resources
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu options.csproj.GenerateResource.cache
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu options.csproj.CoreCompileInputs.cache
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\bin\Debug\Menu options.exe.config
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\bin\Debug\Menu options.exe
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\bin\Debug\Menu options.pdb
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu options.exe
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu options.pdb
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu options.csproj.AssemblyReference.cache
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu_options.Celestial_Bodies_Menu.resources
+C:\Users\aghte\Documents\Coursework Final draft\Menu options\obj\Debug\Menu_options.Main_Menu.resources
